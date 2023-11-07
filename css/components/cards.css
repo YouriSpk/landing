@@ -1,0 +1,19 @@
+.cards {
+  display: flex;
+  justify-content: space-between;
+}
+
+.card {
+  border-radius: 3px;
+  box-shadow: 0 0 5px rgb(84, 82, 82);
+  text-align: center;
+  padding: 60px;
+  border: 1px solid rgb(12, 11, 11);
+}
+
+.card img {
+  height: 100%;
+  width: 200px;
+  object-fit: cover;
+  border-radius: 3%;
+}

@@ -1,0 +1,21 @@
+.container {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.banner {
+  background-size: cover;
+  background-position: 40% 40%;
+  padding: 150px 0;
+}
+
+.banner h1 {
+  color: rgb(18, 13, 13);
+  font-size: 50px;
+}
+
+.banner p {
+  color: black;
+  font-size: 25px;
+  font-weight: bolder;
+}
